@@ -1,0 +1,4 @@
+Metric,Value,Benchmark Static,Business Impact
+Fill Rate (ML Optimized),100.00%,100.00%,+0.00% higher order fulfillment
+Average Inventory Buffer,445.1 units,718.7 units,38.1% reduction in locked working capital
+Simulated Stockout Incidents,0 days,0 days,0 fewer stockout disruptions
